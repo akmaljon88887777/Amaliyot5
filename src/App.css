@@ -1,0 +1,48 @@
+.img {
+  background-image: url("./Assets/page-heading-bg.jpg");
+  width: 100%;
+  height: 348.6px;
+  background-size: cover;
+  background-position: center;
+  object-position: center;
+}
+.Map {
+  background-image: url("./Assets/contact-bg.jpg");
+  width: 100%;
+  height: 570px;
+  background-size: cover;
+  background-position: center;
+}
+a {
+  text-decoration: none;
+}
+link {
+  text-decoration: none;
+}
+
+.videoimg {
+  width: 100%;
+  height: 550px;
+  background-size: cover;
+  background-image: url("./Assets/video-bg.jpg");
+}
+.rasm {
+  background-image: url("./Assets/video-frame.jpg");
+  width: 1076px;
+  height: 482.69px;
+  background-size: cover;
+}
+/* .navbar-color {
+  background-color: red !important;
+  width: 100%;
+  height: 80px;
+  padding-inline: 110px !important;
+  transition: 1.5s;
+  color: #262b47;
+  display: flex;
+  padding-inline: 28px;
+  justify-content: space-between;
+  z-index: 100 !important;
+  box-shadow: 0 0 0.9em red;
+  position: sticky;
+} */
